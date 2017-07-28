@@ -1,0 +1,373 @@
+Case#,Date,Time,Incident#,DIST,Squad,Victim,R/G,Age,Date of Birth,Location,Recorded Neighborhood,At Intersection,Additional Location Info,Suspect/Defendant,Date of Arrest,R/G,Age,Suspect/Defendant D.O.B.,Weapon,Relation,In/Out
+10-Jan,1/1/2010,2:15am,100000331,C11,Brown/McLaughlin/Donlon,"CARDOSO, John",BHM,25,1/4/1984,Geneva Ave & Bowdoin Street,Dorchester,1,intersection of Bowdoin Street and Geneva Avenue ,,,,,,GSW,Unk,Outside
+10-Feb,1/5/2010,12:40am,100006643,E13,Wyse/Benton/Black,"CROWDER, Derek Anthony",BNM,25,8/2/1984,265 Centre St,Jamaica Plain,0,,,,,,,GSW,Unk,Outside
+10-Mar,1/7/2010,8:45pm,100012565,C11,Daley/Harris/Callahan,"THOMPSON, George",BNM,28,1/19/1981,87 Rosseter St,,0,Unit 1,"TAVARES, Omay",1/15/2010,BNM,20,4/27/1989,GSW,Unk,Inside
+10-Apr,1/24/2010,5:43am,100043391,B3,Sullivan/Ruiz/Herron,"THOMAS, Courteney ",BNM,22,8/2/1987,60 Goodale Road,Mattapan,0,,"LORQUET,Jonathan",12/10/2012,B/M,25,7/13/1987,GSW,Unk,Outside
+10-May,2/10/2010,3:28pm,100075680,E18,Devane/Ruiz/Herron,"GOMEZ, Deyquan",BNM,14,5/2/1995,619 Cummins Highway,,0,,,,,,,GSW,Unk,Outside
+10-Jun,2/21/2010,10:34am,100094985,B2,Adams/Coleman/Munroe,"SERRANO, Geraldo",WHM,71,3/30/1938,728 Dudley Street,Roxbury,0,,"FREELS, Martin     WHITE,Onyx          ",2/24/2010,BNM         BNM,17      16,1/21/1993        10/06/1993,GSW,Unk,Inside
+10-Jul,2/27/2010,4:02am,100105858,B3,Adams/Coleman/Munroe,"DALEY, Ramone",BNM,22,12/1/1987,19 Floyd St,,0,,,,,,,GSW,Unk,Outside
+10-Aug,2/28/2010,1:45am,100107531,D14,Wyse/Benton/Black,"BEVANS, Richard",WHM,23,12/11/1986,84 Harvard Ave,Brighton,0,,"MARTINEZ, Mitchell",2/28/2010,WHM,23,8/28/1986,STABBED,Unk,Outside
+10-Sep,3/1/2010,7:26pm,100110537,E5,Brown/Donlon,"SUAZO, Jeudy",BHM,22,2/17/1988,41 Stellman Road,,0,Unit 3,"LARA-GONZALEZ, Deiby(W)",9/21/2010,B/H/M,21,8/14/1989,GSW,Unk,Inside
+10-Oct,3/3/2010,7:25pm,100114607,C11,Duff/Pieroway,"MARTINS, Benjamin",BNM,30,7/2/1979,89 Draper Street,,0,,,,,,,GSW,Unk,Outside
+10-Nov,3/16/2010,11:09pm,100139973,B3,Duff/Cummings/MacIsaac,"TAYLOR, Nathaniel",BNM,22,2/20/1988,71 Nowell St,,0,Unit 1,,,,,,GSW,Unk,Inside
+10-Dec,3/28/2010,3:23am,100162633,B2,Adams/Coleman/Munroe,"TAVARES, Andrew",BHM,17,8/14/1992,69 Maywood Street,,0,Unit 3,,,,,,GSW,Unk,Inside
+13/10,3/29/2010,10:50am,100164654,C11,Sullivan/Ruiz/Herron,"CANTAVE, Charles",BNM,36,5/23/1973,451 Washington St,,0,rear of property,"BURNS, Mario",4/8/2010,BNM,37,10/5/1972,GSW,Unk,Outside
+14/10,3/30/2010,10:20pm,100167780,B2,Brown/Donlon/McLaughlin,"BROWN, Bernard",BNM,43,8/12/1966,31 Leyland Street,,0,,,,,,,GSW,Unk,Inside
+15/10,3/31/2010,11:06pm,100169869,C11,Brown/Donlon/McLaughlin,"BONDS, Terrance",BNM,20,9/14/1989,58 Claybourne Street,,0,,,,,,,GSW,Unk,Outside
+16/10,4/3/2010,11:53pm,100176527,D14,Duff/Cummings/MacIsaac,"VILLALTA, Jose Felix",WHM,40,3/7/1970,Lincoln St & Mansfield St,Brighton,1,intersection of Lincoln Street and Mansfield Street,"MARISCAL, Julio",4/5/2010,WHM,39,12/1/1970,STABBED,Unk,Outside
+17/10,4/19/2010,6:56pm,100207741,B-3,Daley/Harris,"NOCK, Troy",B/M,22,9/14/1987,19 Irma Street,Dorchester,0,,,,,,,GSW,Unk,Outside
+18/10,4/30/2010,11:50pm,100230053,D-4,Brown/McLaughlin ,"YOUNGS, Beau James",W/M,22,6/21/1987,841 Boylston St ,,0,,"JAMES, Kevin",5/8/2010,W/M,43,11/1/1966,STABBED,Unk,Outside
+19/10,5/2/2010,7:59pm,100233809,B-2,Duff/Cummings/MacIsaac,"FAGAN, Paul",B/M,27,6/19/1982,17 Stafford St,Roxbury,0,,"TEWOLDE, Yonas",(W) 3/31/11,B/M,29,7/15/1981,GSW,Unk,Inside
+,,,,,,,,,,,,,,"PRESCOTT, Karl Lawrence",(W) 3/31/11,B/M,28,1/18/1983,,,
+20/10,5/7/2010,6:27pm,100244597,C-11,Daley/Harris/Callahan,"MCAFEE, Cordell",B/M,22,5/22/1987,31 Roseland St,Dorchester,0,,"SIMPKINS, Adam",12/21/2010,B/M,22,10/10/1988,GSW,Unk,Inside
+21/10,5/8/2010,3:40pm,100246241,E-13,MacDonald/Busby/Creelman,"MARTIN, Jaewon",B/M,14,10/20/1995,944 Parker St,,0,rear of property,"HEARNS, Timothy",7/30/2010,BNM,20,3/13/1990,GSW,Unk,Outside
+,,,,,,,,,,,,,,"SILVELO-MILES, Ramone",8/6/2010,B/M,19,11/30/1989,,,
+22/10,5/20/2010,4:35pm,100270239,C11,MacDonald/Busby/Creelman,"WATTERS, Jihad",BNM,25,3/25/1985,795 Washington St,,0,,,,,,,GSW,Unk,Outside
+23/10,5/22/2010,1:12am,100273515,B-3,Duff/MacIsaac/Cummings,"JONES, Toneika",B/F,24,10/8/1985,183 Harvard St,,0,,"FOREMAN, Kadeem                           RAINEY, Terrell",5/22/2010,B/M       B/M,20         20,8/16/1989                  8/14/1989,GSW,Unk,Outside
+*24/10,4/19/1989,10:25pm,100205444,B-3,Sullivan/Ruiz/Herron,"BRANTLEY, Dyshawne",B/M,37,2/6/1973,Blue Hill Ave & Angell St,,1,intersection of Blue Hill Avenue and Angell Street,,,,,,GSW,Unk,Outside
+25/10,5/28/2010,1:55pm,100287074,B-2,MacDonald/Munroe,"KELLEY, Terrence S.",B/M,18,4/26/1992,24 Creston St,Roxbury,0,,"GIBSON,Darius",11/15/2012,B/M,22,8/16/1990,GSW,Unk,Inside
+26/10,5/30/2010,1:10am,100290292,B-2,Brown/McLaughlin,"JOHNSON, Jefferson Cory",B/M,27,12/12/1982,1 Fenwick Pl.,Roxbury,0,,,,,,,GSW,Unk,Inside
+27/10,5/30/2010,19:50pm,100291587,C-11,Brown/McLaughlin,"FOMBY-DAVIS, Nicholas",B/M,14,12/15/1995,218 Bowdoin St,Dorchester,0,,"FRERNANDES, Joshua               LOPES, Crisostomo",5/31/2010,B/M    B/M,15      19,8/8/1993             2/27/1990,GSW,Unk,Outside
+28/10,5/31/2010,1:34pm,100292834,E-18,Devane/Mitchell/Walsh,"BROWN, Ivol",B/M,17,5/7/1993,117 Greenfield St,,0,,,,,,,STABBED,Unk,Outside
+29/10,6/8/2010,9:32pm,100310259,C-11,Duff/Cummings/MacIsaac,"YEE, Tai W.",A/M,42,10/8/1967,34 Lyon Street,,0,,"TROUNG, Than",6/8/2010,A/M,55,1/1/1955,STABBED,Unk,Outside
+*30/10,4/11/2010,4:00am,100190431,C-11,Sullivan/Ruiz/Herron,"MCNEIL, Ta'Dai",B/H/F,0,4/11/2010,408 Neponset Ave.,Dorchester,0,,"WOODHOUSE, Ayanna",7/12/2010,B/F,25,3/16/1985,Trauma,Unk,Inside
+31/10,7/2/2010,6:05am,100355888,B-3,Devane/Munroe/Coleman,"SMALLS, Anthony",B/M,40,7/19/1969,4-6 Milton Ave.,Dorchester,0,,,,,,,GSW,Unk,Inside
+32/10,7/4/2010,4:30am,100360015,B-2,MacDonald/Herron/Benton,"JONES, Lamont",B/M,24,8/31/1985,35 Dunreath Street,Roxbury,0,,"TOOMS, Lakeem(except. Cleared)",    ,B/M,,8/16/1992,GSW,Unk,Outside
+*33/10,12/28/2009,9:03am,90738254,E-18,MacDonald/Cummings,"RODRIGUEZ, Lydia",B/H/F,49,2/20/1960,50 Fairlawn Ave.,,0,,"PINEIRO, Jose",,W/H/M,47,9/4/1962,"Starngulatio,",Boyfriend,Inside
+34/10,7/20/2010,10:51pm,100392630,C-11,Devane/MacIsaac/Cummings,"FLEMING, Robert",B/M,23,10/1/1986,Adams St & Robinson St,Dorchester,1,intersection of Adams Street and Robinson Street,,,,,,GSW,Unk,Outside
+35/10,7/25/2010,10:01pm,100402217,B-2,Duff/Cummings/MacIsaac,"RACKLEY, Kenneth",B/M,19,10/4/1990,Washington Park,,0,,,,,,,GSW,Unk,Outside
+36/10,7/28/2010,11:35pm,100408273,C-11,Brown/McLaughlin,"TALBERT, Lance",B/M,30,4/21/1980,3 Dayton St,Dorchester,0,,,,,,,GSW,Unk,Outside
+37/10,8/12/2010,9:28pm,100437073,C-11,Sullivan/Harris/Callahan,"MARTINS, David",H/M,30,7/1/1980,531 Adams St,Dorchester,0,,,,,,,GSW,Unk,Outside
+38/10,8/14/2010,12:09am,100439322,D-4,Duff/MacIsaac ,"DIMARIA, Michael",W/M,23,7/19/1987,9 Landsdowne St,,0,,"GUARDIOLA, Hector ",8/14/2010,B/H/M,25,5/8/1985,Laceration,Unk,Outside
+39/10,8/17/2010,11:59am,100445682,B-3,Devane/Mitchell/Walsh,"SMALL, Terrence",B/M,39,8/5/1971,2 Shafter St,Dorchester,0,,,,,,,GSW,Unk,Outside
+40/10,8/18/2010,12:37pm,100447758,B-2,MacDonald/Creelman ,"HARMON, Jamil",B/M,26,1/30/1984,600 Blue Hill Ave,Roxbury,0,,,,,,,Stabbing,Unk,Outside
+41/10,8/27/2010,3:00pm,100465699,D-4,Wyse/Benton ,"ECH-CHERQUI, Nouri",I/M,50,8/11/1959,270 Huntington Ave,,0,,"JOHNSON, Brendan",12/18/2010,B/M,30,5/25/1980,Head Injury,Unk,Inside
+42/10,8/28/2010,4:14am,100466456,B-3,Sullivan/Eddings/Ruiz/Herron,"HAYDEN, Stephen",B/M,45,9/16/1964,396 Seaver St,,0,,,,,,,Gsw,Unk,Outside
+43/10,8/28/2010,5:55am,100466534,B-3,Sullivan/Ruiz/Herron,"GREENE, Anthony",B/M,38,9/19/1971,Stratton St & Lucerne St,,1,intersection of Stratton Street and Lucerne Street,,,,,,GSW,Unk,Outside
+44/10,8/28/2010,8:45PM,100467776,B-3,Brown/Donlon/McLaughlin,"JOHNSON, Besher Jamal",B/M,23,2/9/1987,970 Blue Hill Ave,,0,,,,,,,GSW,Unk,Outside
+45/10,9/1/2010,11:50pm,100475928,E-18,Wyse/Benton/Black,"NOVA, Richel",H/M,58,8/12/1952,742 Hyde Park Ave.,,0,,"ST. JEAN, Michel Andre",9/3/2010,B/M,20,8/3/1990,Stabbing ,Unk,
+,,,,,,,,,,,,,,"GALLETT, Alexander Emmanuel",9/3/2010,B/M,18,4/22/1992,,,
+,,,,,,,,,,,,,,"MATHURIN, Yamiley",9/3/2010,B/F,17,2/25/1993,,,
+46/10,9/2/2010,12:09am,100475959,B-2,Wyse/Benton/Black,"SMITH-Johnson, Eric",B/M,18,10/1/1991,471 Blue Hill Ave.,,0,,,,,,,GSW,Unk,Outside
+47/10,9/5/2010,3:52pm,100483096,B-3,Devane/Walsh/McLaughlin/Brown,"PARON, Victoria",W/F,38,9/30/1971,7 Bicknell St,Dorchester,0,,"PARON, Roger",9/5/2010,W/M,51,4/30/1959,Strangulation,Husband,Inside
+48/10,9/6/2010,8:39pm,100485183,B-3,Duff/MacIsaac/Cummings,"PRICE, Jeremy",B/M,18,8/27/1992,60 Astoria St,Mattapan,0,,,,,,,GSW,Unk,Outside
+49/10,9/6/2010,11:18pm,100485438,C-11,Duff/MacIsaac/Cummings,"ANDRE, Hasani",B/M,18,5/9/1992,9 Tonawanda St,Dorchester,0,,,,,,,GSW,Unk,Outside
+50/10,9/15/2010,7:33pm,100503126,C-11,Brown/McLaughlin/Donlon,"JARVIS, Curtis",B/M,21,2/21/1989,27 Cameron St,Dorchester,0,,,,,,,GSW,Unk,Outside
+51/10,9/28/2010,1:12 AM,100527398,B-3,Brown/McLaughlin/Donlon,"FLONORY, Eyanns",B/N/F,21,7/16/1989,42 Woolson Street,Mattapan,0,,"MOORE, Dwayne",11/22/2010,B/M,33,6/25/1977,GSW,Unk,Outside
+52/10,9/28/2010,1:12 AM,100527397,B-3,Brown/McLaughlin/Donlon,"WASHUM-GARRISON, Levaughn",B/M,22,5/4/1988,,,0,,,,,,,,,
+53/10,9/28/2010,1:12 AM,100527330,B-3,Brown/McLaughlin/Donlon,"MARTIN, Simba",B/M,21,10/4/1988,,,,,"WASHINGTON, Edward",,B/M,31,3/28/1979,,,
+54/10,9/28/2010,1:12 AM,100527400,B-3,Brown/McLaughlin/Donlon,"HOTEP-SMITH, Amani",B/M,2,8/21/2008,,,,,,,,,,,,
+55/10,10/7/2010,11:40pm,100546621,D-4,Wyse/Benton/Black,"MATHIESON, Frederick",W/H/M,35,1/6/1975,42 Harrison Archway,,0,,,,,,,GSW,Unk,Outside
+56/10,10/23/2010,1:49 AM,100574705,B-2,Daley/Callahan,"MONTANEZ, Luis A.",W/H/M,25,8/29/1985,151 Blue Hill Avenue,,0,,"BREA, Charlie",(w) 11/9/10,B/H/M,25,7/26/1985,GSW,Unk,Outside
+57/10,10/23/2010,2:56pm,100575522,B-2,MacDonald/Pieroway,"MILTON, Tahitia",B/F,39,12/9/1970,338A Warren St,Roxbury,0,,,,,,,GSW,Unk,Inside
+58/10,10/23/2010,7:13pm,100575793,E-13,Daley/Harris/Callahan,"TORRES, Luis",H/M,23,9/28/1987,201 Boylston St,,0,,"DUME, Ariel",11/21/2010,W/H/M,20,4/14/1990,GSW,Unk,Inside
+59/10,10/25/2010,7:59pm,100579445,C-11,Wyse/Benton/Black,"BERRY, Jermaine",B/M,30,8/4/1980,Geneva Ave. & Charles St,,1,intersection of Geneva Ave and Charles St.,,,,,,GSW,Unk,Outside
+60/10,10/31/2010,12:28am ,100589967,B2,Duff/MacIsaac,"BLANDING, Orvin",BNM,40,3/2/1970,1150 Harrison Ave,Roxbury,0,rear of property,,,,,,GSW,Unk, Outside
+61/10,10/31/2010,9:43am,100590647,B2,McLaughlin/Coleman/Munroe,"BROWN, Richard D.",BNM,41,7/17/1969,62 Catawba Street,Roxbury,0,,,,,,,GSW,Unk,Outside
+62/10,11/2/2010,9:09am,100594230,B-2,Devane/Walsh/Mitchell,"ALLEN, Richard",B/M,21,4/19/1989,135 Humboldt Ave.,,0,,"GROSS, Kim",2/1/2011,B/N/H,18,12/7/1992,Stabbing,Unk,Outside
+63/10,11/4/2010,1:18 PM,100598326,C-11,MacDonald/Creelman/Bliss,"PAYNE, Lloyd",BNM,18,2/8/1992,34 Mallon Road,,0,,,,,,,GSW,Unk,Outside
+64/10,11/6/2010,7:55pm,100602544,B-2,Sullivan/Black/Benton,"WHITLEY, Thomas",B/M,30,,Dearborn St & Dudley St ,,1,intersection of Dearborn Street and Dudley Street (Dudley Square),"HOLLOMAN, Tajuan",12/1/2010,B/M,39,5/7/1971,Stabbing,Unk,Outside
+65/10,11/7/2010,12:55am,100602941,B-3,Sullivan/Benton/Black,"LOISSAINT, Emmanuel",B/M,17,12/25/1992,64 Mascot St,,0,,,,,,,GSW,Unk,Inside
+66/10,11/9/2010,10:54am,100607053,B-3,Devane/Mitchell/Walsh,"CHARLOT, Nervin",B/M,19,1/16/1991,63 Mascot St,,0,,,,,,,GSW,Unk,Inside
+67/10,11/11/2010,12:26am,100610206,B-3,Duff/MacIsaac/Cummings,"LIKELEY, Ernest",B/M,35,5/8/1976,22 Fessenden St,,0,,,,,,,GSW,Unk,Inside
+68/10,11/18/2010,5:02pm,100624097,B-2,Wyse/Ruiz/Benton/Black,"WILLIAMS, Senai Jamaal Patrick",B/M,28,8/6/1982,20 Homestead St,,0,,"ALLEN, James",11/18/2010,B/M,22,8/30/1988,GSW,Unk,Inside
+69/10,11/21/2010,7:24 PM,100629617,E-13,Daley/Harris/Callahan,"DUME, Ariel",W/H/M,20,4/4/1990,662 Center Street ,Jamaica Plain,0,,"CRUZ, Johnnel",11/21/2010,W/H/M,20,4/10/1990,Stabbing,Unk,Inside
+70/10,11/21/2010,7:24 PM,100629730,E-13,Daley/Harris/Callahan,"CRUZ, Johnnel",W/H/M,20,4/101990,,,,,"DUME, Ariel",11/21/2010,W/H/M,20,4/14/1990,GSW,Unk,Inside
+71/10,11/21/2010,7:24 PM,100629731,E-13,Daley/Harris/Callahan,"SOTO, Winzisky",W/H/M,27,8/7/1983,,,,,,,,,,,,
+72/10,11/29/2010,5:39pm,100641920,B-3,Duff/MacIsaac/Cummings,"FAULCHER, Lawrence",B/M,36,12/09/19973,21 Crowell St,Dorchester,0,," HENRY,Everton",11/19/2012,B/M,29,7/26/1993,GSW,Unk,Inside
+73/10,12/3/2010,7:28am,100648344,E-5,Devane/Mitchell ,"LASSITER, Jerome",B/M,26,3/8/1984,35 Rowe St,Roslindale,0,,,,,,,GSW,Unk,Outside
+74/10,12/16/2010,4:13 PM,100671081,B-2,MacDonald/Creelman/Bliss,"BLOCKER, Demetrious",B/N/M,21,8/28/1989,48 Horadan Way,,0,rear of property,"               HOBBS,KEITH,", 04/13/2012,B/M,26,2/1/1986,GSW,Unk,Outside
+11-Jan,1/4/2011,1:45pm,110005668,B-3,MacDonald/Bliss/Creelman,"BUFFORD, Nicholas",B/M,31,4/11/1979,614 Blue Hill Ave,,0,,,,,,,GSW,UNK,Inside
+11-Feb,2/8/2011,7:45am,110068057,E-13,MacDonald/Bliss/Creelman,"PAWLOWSKI, Brenda",W/F,49,11/2/1961,21 Kenney St,Jamaica Plain,0,,"HOWARD, Christopher",10/20/2011,B/M,29,8/15/1992,GSW,UNK,Outside
+,,,,,,,,,,,,,,"PACK, Larry",10/20/2011,B/M,29,5/3/1982,GSW,UNK,Outside
+11-Mar,2/25/2011,10:15,110099743,B-3,MacDonald/Mitchell/Walsh,"REID, Lancelot",B/M,23,1/20/1988,80 Ames Way,Dorchester,0,,"CLINTON, Cherry",2/25/2011,B/F,28,2/28/1982,Stabbing,Girlfriend,Inside
+11-Apr,3/2/2011,2:06am,110108139,A-1,Brown/McLaughlin/Donlon,"LEE, Jamie",B/M,29,10/20/1981,275 Tremont St,,,,,,,,,GSW,UNK, 
+11-May,3/14/2011,10:46pm,110131968,B-2,Brown/Donlon/McLaughlin,"TAVARES, Jorge Luis",B/M,18,1/5/1993,19 Groom St,,,,,,,,,Gsw,UNK,Outside
+11-Jun,3/24/2011,3:08pm,110150227,B-3,McLaughlin/Coleman/Munroe,"MCKINNEY, Khris",B/M,17,5/29/1993,Norfolk St & Whitman St,,1,intersection of Norfolk Street & Whitman Street,,,,,,GSW,UNK,Outside
+11-Jul,3/26/2011,`7:42pm,110154446,B-3,Brown/Donlon/McLaughlin,"READ, James Michael",B/M,24,5/24/1986,37 Ellington St,,0,Unit 1,,,,,,GSW,UNK,Inside
+11-Aug,4/20/2011,1:08AM,110199904,c-11,Brown/Donlon/McLaughlin,"ANDRADE, Edmund",B/M,23,12/22/1987,22 Trull St,Dorchester,0,,,,,,,GSW,UNK, 
+*09/11,5/7/2011,2:54pm,110234188,C-11,Doherty/Ruiz/Herron,"MATULINA, Derek",W/M,19,10/28/1991,121 Savin Hill Ave.,,0,Savin Hill MBTA T Stop,"NGUYEN, Nhu",5/12/2011,Asian,20,5/5/1992,GSW,UNK,Outside
+11-Oct,5/15/2011,8:22am,110250188,D-4,MacDonald/Creelman/Bliss,"WYMAN, Andrew",W/M,29,7/2/1981,794 Mass. Ave.,,0,,"MITCHELL, Darryl S.",5/19/2011,B/M,24,3/31/1987,Stabbing,UNK,Outside
+11-Nov,5/23/2011,7:56am,110265342,A-7,McLaughlin/Coleman/Munroe,"GALDAMEZ, Jaime",H/M,28,,877 Saratoga St,,0,,"FLORES, Marco",5/24/2011,W/H/M,17,10/3/1993,,UNK,Inside
+11-Dec,5/29/2011,9:42pm,110279395,B-3,Sullivan/Benton,"BROWDER, RAHEEM",B/M,20,3/13/1991,29 Selden St,Dorchester,0,,,,,,,GSW,UNK,Outside
+13/11,5/29/2011,10:16pm,110279466,B-3,Sullivan/Benton,"EDMOND, Marc",B/M,22,2/23/1989,Itasca St & Messinger St,,1,intersection of Itasca Street and Messinger Street,,,,,,GSW,UNK,Outside
+14/11,5/31/2011,10:14pm,110283193,B-2,Brown/McLaughlin ,"JOHNSON, Terrance",B/M,28,2/18/1983,Humphrys St & Humphrys Place,,1,intersection of Humphreys Street and Humphreys Place,,,,,,GSW,UNK,   
+15/11,5/31/2011,9:54pm,110283369,B-3,Brown/McLaughlin,"THOMAS-LITTLE, Mark",B/M,20,7/16/1990,113 Evans St,Dorchester,0,,,,,,,GSW,UNK,Inside
+16/11,6/5/2011,10:13 PM,110293808,E-5,Brown/McLaughlin,"MARTINEZ, Wilfredo",B/H/M,23,2/26/1988,115 Brookway Road,,0,,"MILLER, Laquan",7/24/2011,B/M,17,5/25/1994,GSW,UNK,Outside
+17/11,6/17/2011,8:48 PM,110317554,B-2,Brown/McLaughlin/Donlon,"DIAGNE, Fara",B/M,25,8/14/1986,663 Warren Street,,0,,,,,,,GSW,UNK,Outside
+18/11,6/20/2011,2:34 PM,110322777,B-3,MacDonald/Bliss/Creelman,"WALKER, Charles James",B/M,47,3/4/1964,826 Blue Hill Avenue,,0,,,,,,,GSW,UNK,Outside
+19/11,6/25/2011,10:59pm,110333316,B-2,Daley/Harris/Callahan,"JACKSON, Dana",B/M,20,9/14/1990,128 Eustis St,Roxbury,0,,,,,,,GSW,UNK,Outside
+20/11,6/26/2011,9:20pm,110334970,C-11,Sullivan/Cummings/MacIsaac,"WORNUM, Aaron",B/M,25,5/28/1986,Sumner St & East Cottage St,,1,intersection of Sumner Street and East Cottage Street," ROBERTSON, Anthony",7/13/2011,B./M,19,5/19/1991,GSW,UNK,Outside
+21/11,6/29/2011,1:40 a.m.,110339672,C-11,Sullivan/Black,"TROTMAN, Nicholas",B/M,38,4/8/1973,45 Olney St,Dorchester,0,,,,,,,GSW,UNK,Outside
+22/11,7/4/2011,17:16hrs.,110351935,B-2,Wyse/Black,"COAKLEY, James",B/M,17,12/21/1993,60 Hollander St,Roxbury,0,,,,,,,GSW,UNK,Inside
+23/11,7/4/2011,21:55hrs,110352385,C-11,Wyse/Black,"GOMES, Victor",B/M,31,3/13/1978,36 Norton St,,0,,,,,,,GSW,UNK,Outside
+24/11,7/5/2011,12:15am,110352825,C-11,Cummings/MacIsaac,"WINSTON, Joseph",B/M,26,1/26/1985,245 Columbia Rd.,Dorchester,0,,,,,,,GSW,UNK,Inside
+25/11,7/5/2011,12:15am,110352816,C-11,Cummings/MacIsaac,"WASHINGTON, Lashon",B/M,39,5/6/1972,245 Columbia Rd.,Dorchester,0,,,,,,,GSW,UNK,Inside
+26/11,7/7/2011,23:18hrs,110359332,B-3,Daley/Callahan,"GUERRIER, Dominic",B/M,31,8/22/1979,Mascot St & Mountain Ave.,,1,intersection of Mascot Street and Mountain Avenue,,,,,,GSW,UNK,Outside
+27/11,7/24/2011,3:05am,110392774,C-11,Devane/Walsh ,"CASTELLON, Alessa",W/H/F,21,11/17/1989,50 Granger St,Dorchester,0,,"FERNANDES, Junior",7/24/2011,W/H/M,22,5/5/1989,GSW,UNK,Outside
+28/11,7/26/2011,12:11am,110396300,E-18,Daley/Harris/Callahan,"KEE, Billie",B/F,24,1/13/1987,957 Hyde Park Ave.,,0,,"CORBIN, Michael",10/27/2011,B/M,32,11/10/1978,GSW,UNK,Inside
+,,,,,,,,,,,,,,"FULGIAM, Earl",10/27/2011,B/M,31,4/14/1980,GSW,UNK,Inside
+29/11,7/26/2011,12:11am,110396503,E-18,Daley/Harris/Callahan,"THOMAS, Kevin",B/M,32,10/20/1978,957 Hyde Park Ave.,,0,,"CORBIN, Michael",10/27/2011,B/M,32,11/10/1978,GSW,UNK,Inside
+,,,,,,,,,,,,,,"FULGIAM, Earl",10/27/2011,B/M,31,4/14/1980,GSW,UNK,INSIDE
+30/11,7/31/2011,12:22 AM,110406849,B-3,Wyse/Donlon,"ALEXANDER, Wilson Jr.",B/M,19,6/5/1991,40 Ames Street ,,0,,,,,,,GSW,UNK,Outside
+31/11,7/31/2011,4:48am,110407213,D-4,Devane/Wlash,"KING, Richard",B/M,22,6/16/1989,25 Trotter St,,0,,,,,,,GSW,UNK,Outside
+32/11,8/6/2011,4:50am,110419696,D-4,Devane/Walsh/Mitchell,"LEMAR, Raymond",B/M,33,11/5/1977,Harrison St & East Berkeley St,,1,intersection of Harrison Avenue and East Berkeley Street,"THAMES, Anthony ",9/20/2011,B/N/M,28,2/23/1983,GSW,UNK,Outside
+33/11,8/7/2011,3:45am,110421569,E-5,McLaughlin/Creelman/Bliss,"PIMENTEL, Elvira",W/H/F,43,12/1/1967,3964 Washington St,,0,Unit 2,,,,,,GSW,UNK,
+34/11,8/7/2011,3:45am,110421680,E-5,McLaughlin/Creelman/Bliss,"SANCHEZ, Elvis",H/M,17,6/6/1994,3964 Washington St,,0,Unit 2,,,,,,GSW,UNK,
+35/11,8/10/2011,10:45 AM,110427466,D-14,Doherty/Ruiz/Herron,"THOMAS, William",W/M,78,7/4/1933,17 Ledgemere Road,,0,,"MOORE, Randy Floyd",8/10/2011,W/M,54,11/13/1956,GSW,UNK,Inside
+36/11,8/22/2011,3:22am,110450671,C-6,Wyse/Benton/Black,"MCDANIELS, Robert",B/M,24,8/7/1987,290 Northern Ave.,,0,,,,,,,GSW,UNK,Inside
+37/11,8/22/2011,9:25pm,110452311,B-2,Sullivan MacIssac/Cummings,"SANDERS, Tyrus",B/M,27,10/2/1983,7 Kensington Pk.,,0,,,,,,,GSW,UNK,Outside
+38/11,8/23/2011,12:13am,110452526,C-11,Doherty/Herron/Ruiz,"KARGBO, Francis",B/M,22,10/14/1987,92 Sumner St,,0,,"JAMES, Lester",8/23/2011,B/M,23,11/24/1986,Stabbing,UNK,Inside
+39/11,8/26/2011,4:12am,110458812,B-3,MacDOnald/Munroe,"EDWARDS, Omar",B/M,32,10/28/1978,18 Hosmer St,Mattapan,0,,,,,,,GSW,UNK,Outside
+40/11,8/27/2011,10:34am,110461707,C-6,MacDonald/Munroe,"TAGEN, Barbara",W/F,64,1/31/1946,385 Dorchester St,,0,,"CASSINO, Adam",9/22/2011,W/M,25,5/9/1986,Head Trauma,UNK,Inside
+41/11,8/27/2011,7:07pm,110462405,B-2,Wyse/Black/Benton,"BARNES, Derrick",B/M,25,9/22/1985,11 Fayston St,Dorchester,0,,"HENDERSON, Frederick ",10/21/2011,B/M,28,11/25/1983,GSW,UNK,Outside
+,,,,,,,,,,,,,,"HERNDON, Frankie ",10/21/2011,B/M,27,4/9/1984,GSW,UNK,Outside
+42/11,8/31/2011,10:41pm,110471289,A-15,Daley/Harris/Callahan,"WORRELL, Anthony",B/M,28,2/15/1983,McNulty Ct. & Walford Way,,1,intersection McNulty Court and Walford Way,,,,,,GSW,UNK,Outside
+43/11,9/3/2011,7:20pm,110477268,D-4,Brown/Black/Walsh,"SIERRA, Alex",W/H/M,18,4/21/1993,West Brookline St & Tremont St,,1,intersection of West Brookline Street and Tremont Street,"ARIAS, Ricardo",9/2/2011,B/H/M,18,10/22/1993,GSW,UNK,Outside
+44/10,9/14/2011,12:47am,110497720,D-4,Sullivan/Cummings/MacIsaac,"ALBERT, Justin",B/M,22,3/11/1989,1050 Tremont St,,0,,"ROLLEY, Steven",9/14/2011,B/M,29,8/24/1982,Stabbing,UNK,Outside
+45/11,9/21/2011,5:38PM,110513966,D-14,Brown/Mitchell/McLaughlin,"DA SILVA, Edinalva",W/H/F,28,11/20/1982,52 Cummings Rd.,,0,Unit B,"VIEIRA, Paulo Sergio",12/15/2011,H/M,31,3/5/1980,Trauma,UNK,Inside
+46/11,9/22/2011,9:19pm,110516605,B-3,Brown/McLaughlin,"FLORES, Shawn",B/M,29,2/6/1982,15 Abbot St Dor.,Dorchester,0,,"CLARK, Kendrick ",,B/M,36,3/19/1974,GSW,UNK,Inside
+47/11,9/25/2011,3:24pm,110522297,C-11,MacDonald/Creelman/Bliss,"BLAKE, Jaivon",B/M,16,6/10/1995,253 Geneva Ave.,,0,,"WATT, Nyasani",11/3/2011,B/M,18,10/5/1993,GSW,UNK,Outside
+,,,,,,,,,,,,,,"MATTIS, Sheldon",11/3/2011,B/M,18,1/22/1993,GSW,UNK,Outside
+48/11,10/3/2011,10:17pm,110539847,B-2,Brown/Donlon/McLaughlin,"JACOBS, Paula",B/F,23,1/15/1988,39 Dearborn St,,0,rear of property,,,,,,GSW,UNK,Outside
+49/11,10/5/2011,9:08pm,110543925,B-2,Daley/Harris/Callahan,"SMITH, Mike",B/M,44,11/10/1966,40 Kensington Park,,0,,,,,,,GSW,UNK,Outside
+50/11,10/8/2011,11:48pm,110550498,B-3,Wyse/Benton/Black,"BUNCH, Daniel",B/M,22,4/12/1989,1556 Blue Hill Ave.,,0,,,,,,,GSW,UNK,Inside
+51/11,10/11/2011,1:00am,110552423,C-11,Sullivan/Benton/Black,"CONNEELY, Ciaran",W/M,36,1/14/1975,20 Nahant Ave.,Dorchester,0,,"GRAHAM, John",12/20/2011,B/M,17,12/20/1994,GSW,UNK,Inside
+52/11,10/16/2011,4:15am,110565006,E-13,Devane/Mitchell ,"SOTO, Kenneth",B/H/M,19,1/26/1992,451 Centre St,Jamaica Plain,0,,"SOTO, Hector Joel",3/5/2012,H/M,20,3/16/1991,Stabbing,UNK,Inside
+53/11,10/24/2011,8:03pm,110582666,B-2,Sullivan/Cummings/MacIsaac,"LEARY, Durell",B/M,20,12/11/1990,Victor St & Brooke Ave.,,1,intersection of Victor Street and Brooke Avenue,,,,,,GSW,UNK,Outside
+54/11,11/12/2011,9:43pm,110621323,B-2,Sullivan/MacIsaac,"WEBB, Charles",B/M,40,7/8/1971,21 Nazing St,Roxbury,0,,,,,,,GSW,UNK,Inside
+55/11,11/14/2011,9:15am,110623764,B-3,Doherty/Doogan/Herron,"EMILE, Judith",B/F,24,1/7/1987,50 Harlem St,,0,Unit 1,"JANVIER, Jean Weevens (W)",1/25/2012,B/M,30,11/15/1981,GSW,UNK,Inside
+56/11,11/14/2011,9:15am,110623964,B-3,Doherty/Doogan/Herron,"EMILE, Stephanie",B/F,21,3/23/1993,50 Harlem St,,0,Unit 1,"JANVIER, Jean Weevens (W)",1/25/2012,B/M,30,11/15/1981,GSW,UNK,Inside
+57/11,11/21/2011,14:57pm,110638528,E-18,Devane/Walsh/Mitchell,"CAMILO-DENUNEZ, Rosanna",W/H/F,34,4/22/1977,50 Fairlawn Ave.,,0,Unit A4,"BROOM, Eldrick",12/9/2011,B/M,27,1/7/1984,Strangled,UNK,Inside
+58/11,11/29/2011,5:34pm,110652701,A-15,Sullivan/Cummings ,"TURNER, Willie M.",B/M,24,5/18/1987,105 Bunker Hill St,,0,,"Mercado Nazario,Jose",12/12/2012,,19,11/11/1993,GSW,UNK,Outside
+,,,,,,,,,,,,,,"Denis, Prince",,,22,11/7/1990,GSW,UNK,Outside
+59/11,12/3/2011,10:08am,110660339,E-13,Devane/Mitchell/Walsh,"MILES, Gail",B/F,60,3/15/1951,8 Wardman Rd.,,0,,,,,,,Trauma,UNK,Inside
+60/11,12/6/2011,7:40pm,110667180,C-11,Sullivan/MacIsaac/Cummings,"BROOKENS, Victor",B/M,54,3/12/1957,7 Samoset St,Dorchester,0,," PIMENTAL, Luis",1/6/2012,W/H/M,18,2/19/1993,GSW,UNK,Inside
+61/11,12/6/2011,8:32pm,110667248,B-2,Sullivan/Daley/Harris/Callahan,"SOTO, Daniel",H/M,23,7/19/1989,60 Dearborn St,Roxbury,0,,,,,,,GSW,UNK,Inside
+62/11,12/9/2011,9:35am,110672110,B-3,Doherty/Doogan/Herron,"OWENS, Christopher",B/M,22,3/5/1989,47 Winston Rd.,,0,,,,,,,GSW,UNK,Inside
+63/11,12/24/2011,5:40pm,1`10701439,A-7,Sullivan/MacIsaac,"OSPINA, Edger",W/H,20,12/26/1990,123 Meridian St,East Boston,0,,"CORTES-MARTINEZ, Jhon(W)",12/26/2011,W/H,18,5/10/1993,Stabbing,UNK,Inside
+12-Jan,1/14/2012,1:52pm,120027069,C-11,Doherty/Herron/Doogan,"PICHARD, Christopher",W/H/M,18,3/16/1993,23 Trull St,Dorchester,0,,"REYNOSO,Frederick",4/13/2012,B/M,19,4/18/1992,GSW,UNK,Inside
+12-Feb,2/9/2012,9:29pm,120080372,D-4,Sullivan/MacIsaac/Eddings/Ruiz,"HARRIS, Roosevelt",B/M,50,12/11/1961,1049 Tremont St,,0,,"RODRIGUEZ, Cristian",W - 3/7/12,H/M,35,7/19/1976,Trauma,Unk,Inside
+12-Mar,2/19/2012,8:59pm,120100806,B-3,Brown/McLaughlin/Donlon,"GILMORE, Keosha",B/F,25,11/11/1986,26 Alabama St,Mattapan,0,,"JACKSON,Christopher",4/5/2013,B/M,26,10/6/1986,GSW,Unk,Outside
+12-Apr,2/19/2012,9:35pm,120100867,D-4,Wyse/Benton,"HASSAN, Mohamed",B/M,21,9/20/1990,419 Shawmut Ave.,,0,,,,,,,GSW,Unk,Outside
+12-May,2/21/2012,1:45AM,120102926,B-3,Daley/Harris/Callahan,"MILLER, Mary",B/F,71,3/12/1940,45 Codman Hill Ave.,,0,,"NGUYEN, Tu",2/21/2012,A/M,28,4/30/1983,Stabbing,Unk,Inside
+12-Jun,2/23/2012,11:13pm,120109035,B-2,Wyse/Benton/Black,"DEPINA, Anthony",B/M,24,3/5/1987,93 Burrell St,Roxbury,0,,"BARBOSA, Jason",2/25/2012,B/M,23,1/8/1989,GSW,UNK,Outside
+12-Jul,2/28/2012,8:52pm,120118978,B-2,Sullivan/MacIsaac,"VITTINI, Reynaldo",W/H/M,54,12/9/1957,151 Homestead Street,,0,,,,,,,GSW,UNK,Outside
+08/12 *,11/2/2010,3:05pm,100594835,A-7,Foley/Bliss/Creelman,"COSTA, Michael",B/M,47,3/16/1963,406 Meredian St,East Boston,0,,"VARGUS, Jean Torres *",11/16/2010,W/H,29,2/22/1981,Trauma,Unk,Inside
+12-Sep,3/31/2012,4:27am,120187212,B-2,Doherty/Herron/Doogan,"WITHERS,JASON",B/M,25,1/3/1987,655 Warren Street,,0,,"DINGLE-SMITH, Ramon",7/18/2012,B/M,20,6/21/1992,GSW,Unk,Inside
+12-Oct,4/16/2012,10:02am,120223678,C-6,Foley/Bliss/Creelman,"COYNE, Barbara",W/F,67,3/3/1945,737 East 7th St,,0,,"KOSTKA,Timothy",4/22/2012,W/M,26,4/28/1985,Stabbing,UNK,Inside
+12-Nov,4/17/2012,4:05pm,120226779,B-2,McLaughlin/Coleman/Munroe,"ALSTON, Dinorris",B/M,30,5/18/1981,3 Dunreath St,,0,,"JONES,Maurice",6/26/2013,B/M,19,12/29/1993,GSW,UNK,Outside
+12-Dec,4/18/2012,8:50pm,120229721,E-18,Wyse/Benton,"JONES, Dametri J.",B/M,20,12/4/1991,871 River St,Jamaica Plain,0,,,,,,,GSW,UNK,Inside
+13/12,4/19/2012,2:39am,120230174,D14,Doherty/Herron/Doogan,"RAO, Sheshadri K.",Ind. M,24,9/30/1987,112 Allston St ,,0,,,,,,,GSW,UNK,Outside
+14/12,4/27/2012,6:27pm,120249794,E-13,Daley/Callahan,"MALAVE, Mariano",B/H/M,24,4/20/1987,132 Hyde Park Avenue,,0,,"REDDICKS, Charles",5/18/2012,B/M,18,4/20/1994,GSW,UNK,Inside
+15/12,4/28/2012,1:57am,120250585,A-1,Sullivan/Cummings/MacIsaac,"PEREZ, Stephen",W/N,23,5/8/1989,285 Tremont Street,,0,,"CASTILLO, Peter",W-5/10/12,W/H,21,8/6/1988,GSW,UNK,Outside
+16/12,5/4/2012,06:57am,120264210,A-7,McLaughlin/Coleman/Munroe," BARRIENTOS,John",W/H/M,50,2/25/1962,220 Chelsea Street,,0,,"SANTA,Christian",5/5/2012,W/H,20,10/10/1991,Trauma,Unk,Inside
+17/12,5/11/2012,see rpt,120216140,B-3,Eddings/Ruiz,"TAYLOR, James",B/M,20,4/6/1992,Talbot Ave. & Westcott St,,1,intersection of Talbot Avenue and Westcott Streets,"Wathey,Antwan",7/26/2012,B/M,24,9/24/1987,HEAD TRAUMA,,Outside
+18/12*,10/12/2011,see Rpt,110554975,B-2,Devane/Mitchell/Walsh,"Rassi,Franklin",W/H/M,54,6/23/1958,3 Virginia Street,,0,,"GONZALEZ,Jose",12/22/2012,H/M,44,1/17/1968,Stabbing,UNK,Inside
+19/12,5/24/2012,7:39pm,120312839,B-2,Wyse/Black/Benton,"FUENTES, Steven",BHM,33,10/14/1978,19 Leyland St,,0,,"ORTEGA,George",9/6/2012,W/H,28,2/19/1984,GSW,UNK,Outside
+20/12,5/27/2012,3:09am,120318569,C-6,Foley/Bliss/Creelman,"BOURGLAS, Diane",W/F,52,2/22/1960,4 Linsky Barry Ct,,0,,,,,,,Trauma/Burns,UNK,Inside
+21/12,5/27/2012,3:09am,120321058,C-6,Foley/Bliss/Creelman,"HALLAHAN, Richard",W/M,70,6/3/1941,4 Linsky Barry Ct,,0,,,,,,,Stabbing/Burns,UNK,Inside
+22/12,6/15/2012,8:29pm,120365323,C-6,Sullivan/Cummings,"MCCORMICK, Shannon",W/f,38,9/13/1973,242 E. 9th Street,,0,,"KELLEY, Sarah",6/15/2012,W/F,20,12/26/1991,Stabbing,UNK,Inside
+23/12,6/21/2012,11;54pm,120380001,A-7,Sullivan/Cummings/MacIsaac,"Hercules,Elexson",W/H/M,19,3/28/1993,82 Bennington Street ,,0,,,,,,,Stabbing,UNK,Outside
+24/12,7/10/2012,1:54pm,120424262,B-2,MacDonald/Coleman/Munroe,"HARTGROVE, Lance",B/M,15,12/10/1996,Dudley St & Washington St,,1,intersection of Dudley Street and Washington Street,"JONES, Rula Royvan",9/26/2012,B/M,18,8/18/1994,Stabbing,UNK,Outside
+,,,,,,,,,,,,,,"JONES, Ilm",9/26/2012,B/M,20,9/20/1992,,,
+25/12,7/16/2012, 2:12am,120437148,A-1,Sullivan/Cummings/MacIsaac,"FURTADO, Safiro",B/M,28,10/11/1983,Herald St & Shawmut Ave.,,1,intersection between ,,,,,,GSW,UNK,Outside
+26/12,7/16/2012,2:12am,120437067,A-1,Sullivan/Cummings/MacIsaac,"ABREU, Daniel",B/M,29,8/25/1982,Herald St & Shawmut Ave.,,1,,,,,,,GSW,UNK,Outside
+27/12,7/25/2012,11:59pm,120460288,C-11,Sullivan/O'Sullivan/Callahan,"COSTLY, Ashley Williams",B/M,22,4/14/1990,67 Dakota St,,0,,,,,,,GSW,UNK,Outside
+28/12,7/29/2012,2:25am,120467627,A-1,Wyse/Benton,"CHIN, Dumayne",B/M,25,6/27/1987,Atlantic Ave & High St,,1,intersection between Atlantic Avenue and High Street,,,,,,GSW,UNK,Outside
+29/12,7/31/2012,8:54am,120472210,D-14,Doogan/Walsh,"KUANG, Mei Rong",A/F,81,6/10/1931,2-4 Fidelis Way,,0,,"LI,Huan Yuan",12/20/2012,A/M,57,7/28/1955,Burns,UNK,Inside
+30/12,7/31/2012,9:22PM,120473784,b-3,Daley/O'Sullivan/Callahan,"COX, Curtis",B/M,43,10/14/1968,1631 Blue Hill Ave.,,0,,"BULLOCK, Derrick",7/31/2012,B/M,40,8/13/1971,Stabbing,UNK,Inside
+31/12*,7/27/2012,7:31 PM,120464494,B-3,McLaughlin/Coleman/Munroe,"CAFFEY, Mack",B/M,62,3/12/1950,96 Itasca St,,0,,,,,,,GSW,UNK,Inside
+32/12,8/12/2012,3:30am,120500089,E-18,Devane/Mills/Mitchell,"ALLEN, Jemald",B/M,34,8/5/1978,784 Canterbury St,,0,,,,,,,GSW,UNK,Inside
+33/12,8/12/2012,9:20pm,120501456,B-3,"Daley/Callahan/O""Sullivan/Herron","LARTEY, Kristen",B/F,22,5/18/1990,30 Harlem St,,0,,,,,,,GSW,UNK,Outside
+34/12,8/12/2012,9:20pm,120501720,B-3,"Daley/Callahan/O""Sullivan/Herron","PERKINS, Sharrice",B/F,22,9/27/1989,30 Harlem St,,0,,,,,,,GSW,UNK,Outside
+35/12,8/12/2012,9:20pm,120501716,B-3,"Daley/Callahan/O""Sullivan/Herron","PHILLIP, Genevieve",B/F,22,1/26/1990,30 Harlem St,,0,,,,,,,GSW,UNK,Outside
+36/12,8/15/2012,2:37pm,120507531,B-2,McLaughlin/Bickerton/Altunez/Coleman,"BARNES, Rashad",B/M,24,6/25/1988,90 Warren St,,0,,"Goodwin,Jahvon",8/29/2012,B/M,,8/26/1991,Stabbing,UNK,Outside
+37/12,8/31/2012,1:05am,120542700,B-3,Daley/Callahan/O'Sullivan/Herron,"TOWNSEND, Deandre",B/M,20,1/5/1992,Southern Ave. & New England Ave.,,1,intersection between Southern Avenue and New England Avenue,,,,,,GSW,UNK,Outside
+38/12,9/10/2012,6:40pm,120567321,B-3,Brown/McLaughlin/Donlon/Kenney,"FUENTES, Jorge",B/M,19,7/28/1993,57 Wheatland Ave,Dorchester,0,,,,,,,GSW,UNK,Outside
+39/12,9/10/2012,8:34pm,120567543,B-3,Brown/Kenney/Donlon/McLaughlin,"STEWART, Arthur Julien",B/M,19,6/22/1993,57 Sanford St,,0,,,,,,,GSW,UNK,Inside
+40/12,9/21/2012,9:30am,120140569,B2,Daley/Callahan/O'Sullivan/Herron,Dejalise Morales,W/H/M,6M,9/5/2011,695 Columbia Road,,0,,Marivette Morales,10/5/2012,WHF,,1/12/1972,Hyperthermia,UNK,in vehicle
+41/12,9/27/2012,7:05,120608837,C-11,Brown/Kenney/Donlon/McLaughlin,"PIRES, Stefan",B/M,22,4/3/1990,436 Geneva Ave.,,0,,,,,,,GSW,UNK,Inside
+42/12,10/1/2012,4:26pm,120617658,B-2,Foley/Bliss/Creelman/Lagoa,"MATTHEW, Andre",B/M,17,8/18/1995,48 Bower St,,0,,"CLARK,Rashawn",11/28/2012,B/M,,12/19/1994,GSW,UNK,Outside
+43/12,10/1/2012,22;03,120618323,c-11,Sullivan/Cummings /Munroe/MacIsaac,"Martin,Machel",B/M,34,2/6/1978,230 Park Street,,0,,,,,,,GSW,UNK,Outside
+44/12,10/5/2012,2:02am,120626043,D-4,Brown/Donlon/McLaughlin/Kenney,"MITCHELL, Jaquan",B/M,20,7/19/1992,10 Trotter Ct.,,0,,,,,,,GSW,UNK,Outside
+45/12,10/6/2012,1:11am,120628683,C-11,Daley/Callahan/O'Sullivan/Herron,"LAJOIE, Cherby",B/M,39,10/25/1972,11 Charles St,,0,,"WATKINS,Ernest",10/13/2012,B/M,,1/14/1998,Stabbing,UNK,Outside
+46/12,10/17/2012,11:00am,120654057,C-11,Devane/Walsh/Mitchell/Mills,"RIVAS, Alfonso",B/M,23,9/24/19891,14 Lyndhurst St,,0,Unit 3F,"PRITCHETT,Oasis",10/31/2012,B/M,,10/5/1990,GSW,UNK,Inside
+47/12,10/17/2012,6:44pm,120654995,C-6,Daley/Callahan/O'Sullivan/Herron,"MARTINEZ, Nicholas",W/H/M,22,4/16/1990,85 SouthHamton St,,0,,"Concepcion,Raymond",10/18/2012,B/H/M,,4/30/1997,GSW,UNK,Outside
+48/12,10/22/2012,1:43am,120664600,B-3,Doherty/Doogan/Kenney/Coleman,"LORQUET, Jonathan",B/M,25,7/13/1987,36 Whitman St,,0,,,,,,,GSW,UNK,Outside
+49/12,10/28/2012,3:19am,120679509,D-4,Doherty/Doogan/Dottin/Zingg,"RUSS, Deandre",B/M,22,8/24/1990,1050 Tremont St,,0,,"YARDE, David",11/20/2012,B/M,,9/16/1990,GSW,UNK,Outside
+50/12,11/19/2012,17:46,120729028,D-14,Wyse/Black/Ruiz,"COOPER, Leroy",B/M,26,4/9/1986,Morrow Rd & Leicester St ,Brighton,1,intersection between Morrow Road and Leicester Street (does not exist),"MALONE,Patrick",11/30/2012,B/M,,6/28/1991,GSW,UNK,  
+51/12,11/28/2012,2:44pm,120746779,B-2,Devane/Mitchell/Walsh/Mills,"OTOADESE, Victor",B/M,21,1/7/1991,Batchelder St & Longmeadow St,,1,intersection between Batchelder Street and Longmeadow Street,"MONTEIRO,Keon",5/16/2013,B/M,,3/19/1989,GSW,UNK,Outside
+52/12,11/28/2012,2:44pm,120747133,B-2,Devane/Mitchell/Walsh/Mills,"REPETTO, Sean",W/H/M,25,5/9/1987,Batchelder St & Longmeadow St,,1,intersection between Batchelder Street and Longmeadow Street,"MONTEIRO,Keon",5/16/2013,B/M,,3/19/1989,GSW,UNK,Outside
+53/12,12/11/2012,1:48am,120774522,B-2,Daley/O'Sullivan ,"TAYLOR, Shawn",B/M,28,2/29/1984,37 Copeland St,,0,,"BRITT,Andrew",1/15/2013,B/M,, ,GSW,UNK,Inside
+54/12,12/13/2012,20:35,120781183,B-3,  Sullivan/Benton/Black,"DIAS, Ronald",B/H/M,23,8/13/1989,39 Elmont St,,0,,,,,,,GSW,UNK,Inside
+55/12,12/15/2012,10:55am,120784774,D-4,Doherty/Dottin/Bickerton/Herron,"GUERRERO, Orlando",B/H/M,42,5/10/1970,11 Windsor St ,,0,,"CARRASQUILLO,Jose",3/13/2013,W/H,42,3/6/1971,GSW,UNK,Outside
+56/12,12/15/2012,04:03am,120784361,B-3,Eddings,"JOSEPH, Franky",B/M,30,5/12/1982,199 Woodrow ave,,0,,"DINKINS, Champree",12/15/2012,BF,24,4/11/1988,MV,Unk,Inside
+57/12,12/18/2012,7:29am,120790451,D-4,McLaughlin/Bickerton/Antunez,"HILL, Stephen",W/M,54,8/26/1958,59 The Fenway,,0,Park,,,,,,Stabbing,UNK,Outside
+58/12,12/25/2012,8:29pm,120805825,E-5,Wyse/Black/Benton/Ruiz,"GILMORE, Jarvis",B/M,22,7/20/1990,60 Bradeen St,,0,,,,,,,GSW,UNK,Inside
+59/12,1/23/2012,8:08pm,120044819,B-2,Sullivan/Cummings/MacIsaac,"ROWELL, Kelvin",B/M,40,1/10/1972,Grove Hall,,0,,"STALLINGS,Michael",1/31/2013,B/M,,3/31/1989,      ,UNK,Outside
+60/12,12/28/2012,1:40am,120810012,B-2,Sullivan/Donlon/McLaughlin/Kenney,"ROBERT, Fitz.",B/M,39,8/8/1973,131 Harold St,,0,,,,,,,GSW,UNK,Outside
+13-Jan,1/1/2013,2:40am,130000513,D-14,Doherty/Zingg/Dottin,"SPAULDING, Anthony",W/M,21,9/24/1991,48 Pratt St,Allston,0,,"MACDONALD, Brian",1/1/2013,w/m,24,4/7/1988,Knife,Unk,Inside
+13-Feb,1/7/2013,2:50am,130012613,C-6,Doherty/Cummings/Zingg,"REYES, Johnathan",B/H/M,18,1/24/1994,335 W 2nd St,South Boston,0,,,,,,,GSW,Unk,Inside
+12-Mar,1/29/2013,6:55pm,130060417,E-5,Sullivan/Cummings/MacIsaac/Munroe,"JONES, Carly",B/F,32,2/26/1980,28 Fawndale Rd,,0,Unit 3L,,,,,,GSW,Unk,Inside
+*04/13,12/2/2012,7:00pm,120755994,C-6,Wyse/Benton/Ruiz,"CALLAHAN, Alexander",W/M,25,12/24/1986,20 Bradston Street,,0,,"JURCZUK,Lesley",3/5/2013,W/M,51,10/15/1961,Trauma,Unk,Inside
+13-May,2/17/2013,2:36am,130099861,B-3,Sullivan/MacIsaac/Munroe,"FEW, Rayshawn",B/M,27,3/30/1985,24 Woodruff Way,Mattapan,0,,"KELLEY,Kewon",3/12/2013,B/M,26,2/21/1987,GSW,Unk,Inside
+13-Jun,2/28/2013,9:50 PM,130123059,B-2,Sullivan/Cummings/MacIsaac/Munroe,"JACKSON, Courtney",B/M,26,5/19/1986,Dudley MBTA,,0,,"Cooper,Brian",2/28/2013,B/M,25,1/19/1988,GSW,Unk,Outside
+,,,,,,,,,,,,,,"Bannister,Jamel",2/28/2013,B/M,22,10/7/1990,,,
+13-Jul,3/9/2013,6:34pm,130141150,C-11,Brown/McLaughlin/Donlon/Kenney,"CLARK, Thaddeus",B/M,18,7/21/1994,7 Ronald St,Dorchester,0,,,,,,,GSW,Unk,Outside
+13-Aug,3/31/2013,8:23 PM,130189432,E-13,Wyse/Benton/Black/Ruiz,"VILLALONA, Edward",H/M,25,10/5/1987,104 Minden St,,0,rear of property,"PEREZ,Yerri",8/27/2013,H/M,21,9/19/1991,GSW,Unk,Outside
+13-Sep,4/17/2013,8:31pm,130227483,B-2,Sullivan/Cummings/MacIsaac/Munroe,"TOWNSEND, Clifton",B/M,22,3/7/1991,237 Dudley St,,0,,,,,,,GSW,Unk,Inside
+13-Oct,4/20/2013,1:35am,130232192,B-2,Brown/McLaughlin/Donlon/Kenney,"PHILLIPS, Joel",B/M,25,4/8/1988,52 Copeland St,,0,,,,,,,GSW,Unk,Inside
+13-Nov,4/28/2013,7:47pm,130250794,B-2,Daley/Callahan/O'Sullivan/Herron,"CAMPBELL, Malcolm",B/M,24,4/23/1990,Wayland St & Howard Ave.,,1,intersection between Wayland Street and Howard Avenue,,,,,,GSW,Unk,Outside
+13-Dec,5/3/2013,12:42am,130260696,B-2,Brown/McLaughlin/Donlon ,"HERNANDEZ, Maiqui",W/H/M,35,1/24/1978,41 Prentiss St,,0,,"SUBER,Devone",6/4/2013,B/M,27,2/4/1986,GSW,Unk,Inside
+13/13,5/3/2013,1:34 PM,130262533,B-2,Devane/Walsh/Mills/Mitchell,"JACKSON, Tremayne",B/N/M,22,4/2/1991,416 Warren Street,,0,,  ,,,,,GSW,Unk,Outside
+14/13,5/3/2013,1:34 PM,130261802,B-2,Devane/Walsh/Mills/Mitchell,"WIGGINS, Mibsam",B/N/M,23,10/20/1989,416 Warren Street,,0,,,,,,,GSW,Unk,Outside
+15/13,5/7/2013,10:18pm,130272131,A-15,Wyse/Benton/Ruiz,"JONES, Steven",B/M,21,1/28/1992,Medford St & Monument St,,1,intersection between Medford Street and Monument Street,"FLORES,Pablo",9/4/2013,B/H,20,2/17/1993,GSW,Unk,Outside
+16/13,5/27/2013,8:12 PM,130318443,B-2,Daley/Herron/O'Sullivan/Callahan,"POWELL, Lloyd",B/N/M,23,1/26/1990,125 Elm Hill Avenue,,0,,,,,,,GSW,Unk,Outside
+17/13,6/1/2013,3:21 PM,130330269,B-2,Doherty/Antunez/Dottin/Zingg,"BIGBY, Briana",B/N/F,22,12/23/1990,310 Walnut Ave,,0,,,,,,,GSW,Unk,Outside
+*18/13,3/5/2013,2:44 PM,130132638,B-2,Foley/Bliss/Creelman/Lagoa,"BROUSSEAU, Normil",B/M,20,9/27/1992,47 Langdon Street,,0,,,,,,,GSW,Unk,Outside
+19/13,6/5/2013,11:50PM,130341422,E-18,Wyse/Benton/Black/Ruiz,"MILLER,Jordan A",B/M,20,6/29/1992,633 Cummins Hwy,,0,,,,,,,GSW,UNK,Inside
+20/13,6/12/2013,9:24 PM,130358316,B-3,Wyse/Ruiz,"GRIFFIN, Jajuan",B/M,27,8/29/1985,73 Ames Street,,0,,"CARTER,Diovanni",8/22/2012,B/M,23,10/25/1989,GSW,Unk,Outside
+21/13,6/15/2013,12:51 PM,130364258,B-3,Foley/Bliss/Lagoa/Creelman,"PIERRE-LOUIS, Erick",B/N/M,28,7/29/1984,88 Wellington Hill St,,0,,,,,,,GSW,Unk,Outside
+22/13,6/22/2013,4:18 AM,130380400,B-2,Foley/Bliss/Lagoa/Creelman,"CRUZ, Ana",W/H/F,22,9/19/1990,153 Intervale Street,,0,Unit 2,"ROMERO,Jael",11/22/2013,B/H,23,5/30/1990,GSW,Unk,Inside
+23/13,6/22/2013,4:18 AM,130380142,B-2,Foley/Bliss/Lagoa/Creelman,"GARCIA, Felix",W/H/M,20,8/24/1992,153 Intervale Street,,0,Unit 2,,,,,,GSW,Unk,Inside
+24/13,6/22/2013,4:14 AM,130380401,B-2,Foley/Bliss/Lagoa/Creelman,"TIRADO, Brian",B/H/M,23,1/26/1990,153 Intervale Street,,0,Unit 2,,,,,,GSW,Unk,Inside
+25/13,6/26/2013,5:52 PM,130391423,C-6,Daley/Herron/O'Sullivan/Callahan,"HARDY, Melissa",W/N/F,34,12/21/1979,752 East 4th Street,,0,,"JIMINEZ, Martin E.",6/26/2013,W/N/M,43,3/9/1970,Trauma,BF,inside
+26/13,7/20/2013,1:36 AM,130449396,B-2,Brown/Donlon/McLaughlin/Kenney,"HAYNES, Perris",B/N/H,29,7/27/1983,131 Harold Street,,0,,,,,,,GSW,Unk,Outside
+27/13,7/23/2013,4:03PM,130457691,E-18,McLaughlin/Cecil/Sheehan,"Lord,Amy",W/N/F,24,12/21/1988,Stony Brook Reservation,,0,park,"ALEMANY,Edwin",8/1/2013,W/H,28,9/2/1984,Knife,Unk,Outside
+28/13,7/31/2013,1:27 PM,130476732,D-4,Doherty/Dottin/Zingg/Antunez,"MORANTE,Joseph",W/M,19,7/29/1994,1049 Tremont St,,0,,"BROWN, Elosko",11/17/2013,B/M,27,2/23/1986,GSW,Unk,Inside
+29/13,8/14/2013,2:37 PM,130510810,B-2,Foley/Bliss/Lagoa/Creelman,"FIELDS,Winston",B/M,73,3/14/1940,2311 Washington Street,,0,,"BROWN,Angeliea",9/25/2013,B/F,33,8/15/1980,Knife,Unk,Inside
+30/13,8/22/2013,11:08 PM,130531350,D-4,Wyse/Ruiz/Black,"LEE, Ahmir",B/N/M,22,4/7/1991,553 Boylston Street,,0,,,,,,,GSW,unk,Outside
+31/13,9/5/2013,6:02PM,130564230,B-3,Brown/McLaughlin/Kenney/Donlon,"WHITE, Walter D",B/M,19,4/13/1994,502 Norfolk St ,,0,,,,,,,GSW,unk,Outside
+32/13,9/7/2013,9:43pm,130569550,B-3,Sullivan/MacIsaac/Munroe,"HARGROVE, Jody",B/M,42,12/4/1970,504 BlueHill Ave,,0,,,,,,,GSW,unk,Outside
+33/13,9/14/2013,11:49PM,130586768,E-5,Sullivan/Cummings/MacIsaac/Munroe,"CASTILLO JR, Nelson B.",B/H/M,25,1/13/1988,80 Archdale Rd,,0,,,,,,,GSW,unk,Outside
+*34/13,5/16/2013,1:00pm,130292025,E13,Foley/Bliss/Creelman,"WALKER, Celestine",B/F,47,1/5/1966,34 Heath St,,0,Unit 488,"CARRINGTON,Phillip",12/11/2013,B/M,48,4/6/1965,Trauma,unk,Inside
+35/13,10/2/2013,10:18PM,130629342,B2,Devane/Walsh/Mills/Mitchell,"CARVALHO, Leroy",B/M,31,10/2/1982,26 Albion St,Roxbury,0,,,,,,,GSW,unk,Outside
+36/13,10/17/2013,09:24PM,130663609,B2,Brown/McLaughlin/Kenney/Donlon,"LOPEZ, Jose A.",B/H/M,24,1/10/1989,280 Humboldt Ave.,,0,,,,,,,,,
+37/13,11/16/2013,10:52pm,130729199,B3,Brown/Kenney/McLaughlin,"MCGEE, Andrew",B/M,21,4/15/1992,8 Whitman Street,,0,,,,,,,,,
+38/13,11/17/2013,5:00 PM,130730599,C6,Daley/Callahan/Herron/O'Sullivan,"SANTOS, Edwin Manual",W/H/M,29,8/30/1984,246 Dorchester Street,,0,,"SANCHEZ, Elias",11/18/2013,H/M,    ,1/12/1970,STAB,unk,Outside
+39/13,12/14/2013,1:45 AM,130786345,B3,Sullivan/MacIsaac/Munroe,"MCCUBBIN,Romeo",B/N/M,25,9/12/1988,12 Havelock Street,,0,,"BONNER,Omar",12/14/2013,B/M,26,8/2/1987,GSW,UNK,Outside
+40/13,12/25/2013,4:04 AM,130809377,B3,McLaughlin/Cecil/Sheehan,"O'NEIL, Rashaan",B/N/M,34,5/13/1977,92 Wales Street,,0,,"HOLNESS, Ian",3/5/2014,B/M,27,9/24/1986,GSW,Unk,Outside
+14-Jan,1/9/2014,6:02 PM,140017623,E5,Brown/Donlon/McLaughlin/Kenney,"CONSTANT,Samuel",B/M,19,,100 Margaretta Dr.,,0,,,,,,,Knife,Unk,Out
+14-Feb,1/9/2014,11:10 AM,140018082,E5,Wyse/Benton/Ruiz,"JOHN, Brandon",B/M,18,,136 Rowe St,,0,,,,,,,Gun,Unk,Out
+14-Mar,1/14/2014,5:58 PM,140027818,D4,Wyse/Benton/Ruiz,"MCKINNEY,(Knight) Ricky    ",B/M,34,,996 Tremont St,,0,,,,,,,Gun,Unk,Out
+14-Apr,1/15/2014,9:28 AM,140028842,B3,Doherty/Dottin/Zingg,"CHINAPOO, Jordan",B/N/M,20,,85 Esmond Street,,0,,,,,,,GSW,Unk,Inside
+14-May,1/18/2014,8:12 PM,140036877,B3,Foley/Cummings/Munroe,"ARROYO, Luis",W/H/M,21,,Blue Hill Ave. & Evelyn St,,1,intersection between Blue Hill Avenue and Evelyn Street,,,,,,GSW,Unk,Out
+14-Jun,1/24/2014,6:28 PM,140048871,B3,Devane/MacIsaac/Cummings/Munroe,"KEENE, Trevain",B/N/H,21,,82 Callendar St,,0,,,,,,,GSW,Unk,Out
+14-Jul,1/26/2014,9:53 PM,140053352,C11,Wyse/Ruiz/Zingg,"PRINTEMPS, Julien",B/M,22,,1866 Dorchester Ave,,0,,,,,,,GSW,Unk,Out
+ 08/14,1/27/2014,2:43 AM,140053643,E18,Doherty/Antunez/Dottin/Zingg,"MCGREGOR, Clarence",B/N/M,25,,92 Rosewood Street,,0,,,,,,,GSW,Unk,Out
+14-Sep,1/27/2014,2:43 AM,140054670,E18,Doherty/Antunez/Dottin/Zingg,"MONTGOMERY, Teasia",B/N/F,28,,92 Rosewood Street,,0,,,,,,,GSW,Unk,Out
+14-Oct,2/7/2014,11:37AM,140078533,B3,Doherty/Antunez/Dottin/Zingg,"PENA, Janmarcos",WH/M,9,,617 Morton St,,0,,,,,,,GUN,,Inside
+14-Nov,2/20/2014,11:33PM,140107585,B3,Foley/Donlon/Kenney,"ROWELL JR, Kenneth",B/M,25,,196 Itasca St,,0,,,,,,,Gun,Unk,Out
+14-Dec,2/23/2014,12:37AM,140112356,C6,Sullivan/Munroe/Macisaac/Cummings,"TAYLOR, Daniel Paul",B/M,23,,126 Boston St,,0,,,,,,,Gun,Unk,Out
+13/14,3/1/2014,2:48AM,140126163,C6,Foley/Lagoa/Creelman/Bliss,"Borgella, Christopher",B/M,22,,200 Mt. Vernon St,,0,,,,,,,Knife,Unk,Out
+14/14,3/1/2014,6:20 AM,140126290,C11,McLaughlin/Cecil/Sheehan,"MIMS, Augusta",B/M,30,,744 Washington St,,0,,,,,,,Knife,Unk,Out
+15/14,3/14/2014,9:48AM,140155763,E5,McLaughlin/Cecil/Sheehan,"REGAN, Mark",W/M,66,,105 Perham St,,0,,,,,,,Knife,,Inside
+16/14,3/31/2014,11:47AM,140193419,B2,Devane/Mclaughlin/Herron,"MALDONADO, Jose",B/M,44,,17 Smith St,,0,,,,,,,GSW,Unk,Out
+17/14,4/9/2014,7:54PM,140215331,C6,Devane/Mclaughlin/Herron/Donlon,"LEON, Joel",W/H/M,19,,Dorchester St & West 5th St,,1,intersection between Dorchester Street and West 5th Street,,,,,,GSW,Unk,Out
+18/14,4/12/2014,6:50AM,140221046,A7,McLaughlin/Cecil/Kenney,"SANTOS-CHAVES, Oscar",W/H/M,36,,282 Border St,,0,,,,,,,Knife,Unk,Out
+19/14,4/14/2014,1:12AM,140225212,B2,Wyse/Ruiz/Walsh,"MASON, James",B/M,45,,Dabney St & Regent St,,1,intersection between Dabney Street and Regent Street,,,,,,GSW,Unk,Out
+20/14*,8/1/2013,9:22AM,130478691,A7,MacDonald/Walsh/MacLaughlin/Mills,"BRADLEY, Sherry",W/F,32,,800 Border St,,0,,,,,,,Trauma,Unk,Out
+21/14,5/2/2014,3:13 PM,140268313,B-3,Doherty/Dottin/Zingg,"SKEENS, Daniel",B/M,31,,9 Gladeside Ave ,,0,,,,,,,GSW,Unk,Out
+22/14,5/8/2014,11:00 PM,140284375,B-2,Devane/McLaughlin/Kenney/Donlon,"SEMEDO, Gilson",B/M,27,,15 Cawfield St,,0,,,,,,,GSW,Unk,Out
+23/14,5/18/2014,4:27 AM,140307980,D4,Wyse/Sheehan/Cecil,"BOVEILL, Dominique",B/M,20,,Columbus Ave. & Camden St,,1,intersection between Columbus Avenue and Camden Street,,,,,,GSW,Unk,Out
+24/14,5/21/2014,1:25 PM,140316255,B-2,Stratton/Mills/Moore/Dottin,"RICHARDSON, Shannon",B/N/M,25,,742 Dudley Street,,0,,,,,,,GSW,Unk,Out
+25/14,6/6/2014,8:25 PM,140357255,C11,Wyse/Ruiz/Walsh/Mitchell,"DEPINA, Michael",B/H/M,28,,5 Taft Street,,0,,,,,,,GSW,Unk,Out
+26/14,6/8/2014,11:28PM,140362516,B2,Devane/McLaughlin/Kenney,"MARRIRO, Craig",B/N/M,48,,Harold St & Harrisoff St,,1,intersection between Harold Street and Harrisoff Street,,,,,,GSW,Unk,Out
+27/14,6/22/2014,1:47 AM,142001655,E-13,Daley/Callahan/O'Sullivan/Herron,"LANIER, Michael",B/N/M,24,,6-8 Ernst Street,,0,rear of property,,,,,,GSW,Unk,Out
+28/14,6/25/2014,5:20PM,142001185,A1,Doherty/Chevrette/Zingg,"LAWN, Edward",W/N/M,68,,151 Cambridge St,,0,,,,,,,Trauma,Unk,Out
+29/14,6/29/2014,1:53 PM,142004189,A7,Foley/Bliss/Creelman,"COOK, Walter",W/M,38,,232B Brandywyne Dr.,,0,,,,,,,GSW,Unk,Inside
+30/14,6/30/2014,2:07 PM,142004538,E18,McLaughlin/Cecil/Herron,"RAGLAND, Corey",B/N/M,36,,73 Edgewater Dr. ,,0,,,,,,,GSW,Unk,Out
+31/14,7/19/2014,2:44 AM,142010608,D4,Sullivan/Cummings/MacIsaac/Munroe,"NUNEZ, Niko",B/H/M,20,,68 Aguadilla St,,0,,,,,,,GSW,Unk,Out
+32/14*,6/29/2014,1:50AM,142004026,D4,Daley/Callahan/O'Sullivan/Herron,"ARCHER, Evens",B/N/M,17,,5 Castle Court,,0,,,,,,,GSW,Unk,Out
+33/14,7/31/2014,6:53PM,142014924,C11,Donovan/Kenney/Donlon,"JEUDI, Emmanuel",B/N/M,29,,157 Washington St,,0,,,,,,,Knife,Unk,Inside
+34/14,8/1/2014,6:30am,142015053,C6,Stratton/Mills/Dottin,"PRICE, Dwight",B/N/H,51,,1005 Columbia Rd,,0,,,,,,,Knife,Unk,Out
+35/14,8/11/2014,9:32pm,142018477,B2,Wyse/Ruiz/Bliss,"DINGLE-KNIGHT, Antoine",B/M,27,,93 Devon St,,0,,,,,,,GSW,Unk,Out
+36/14,8/23/2014,8:17AM,142022091,B3,McLaughlin/Cecil/Sheehan,"JAFFIER, Dawnn",B/N/F,26,,Charlotte St & Blue Hill Ave.,,1,intersection between Charlotte Street and Blue Hill Avenue,,,,,,GSW,Unk,Out
+37/14,8/31/2014,9:00PM,142024879,C11,Devane/McLaughlin/Zingg,"FERNANDES, Shongi",B/N/M,24,,52 Claybourne St,,0,,,,,,,GSW,Unk,Out
+38/14,9/6/2014,12:27AM,142026639,E13,Devane/McLaughlin/Callahan,"GONZALEZ, Adrian",W/H/M,17,,17 Wardman Road,,0,,,,,,,GSW,Unk,Out
+39/14,9/14/2014,11:14PM,142029488,B3,Sullivan/Cummings/MacIsaac/Munroe,"VELASQUEZ, Jimmy",B/H/M,49,,14 Glenarm St,,0,,,,,,,GSW,Unk,Out
+40/14,9/21/2014,12:02AM,142031447,B3,Daley/Callahan/O'Sullivan/Herron,"SANCHEZ, George",W/H/M,42,,5 Ames St,,0,,,,,,,Knife,Unk,Out
+41/14,9/29/2014,7:16PM,142034359,B2,Devane/McLaughlin/Donlon/Kenney,"ROBERTSON, Raheem",B/N/M,21,,564 Dudley St,,0,,,,,,,GSW,Unk,Out
+42/14,9/30/2014,8:38PM,142034703,B2,Devane/McLaughlin/Donlon/Kenney,"NUNEZ, Juan",B/H/M,21,,239 Parker Hill Ave,,0,,,,,,,GSW,Unk,Out
+43/14,10/10/2014,9:47PM,142037950,B2,Wyse/Mitchell/Walsh,"BERNABEL, Santo Alcadio",B/H/M,69,,104 Winthrop St,,0,,,,,,,Knife,Unk,Inside
+44/14,9/4/2014,9:32AM,142026030,B2,McLaughlin/Sheehan/Cecil,"WILLIAMS-MARCELIN, Destin ",B/N/M,6,,61 Devon St,,0,Unit 2,,,,,,Trauma,Unk,Inside
+45/14,10/16/2014,5:18 PM,142039780,C11,Wyse/Ruiz/Mitchell/Walsh,"WILLIAMSON, Gerald",W/N/M,31,,205 Bowdoin St,,0,,,,,,,Knife,Unk,Out
+46/14,10/18/2014,4:45AM,142040234,C11,Doherty/Zingg/Chevrette,"SANCHEZ, Maria Cecelia",H/F,26,,188 Washington St,,0,,,,,,,Knife,Unk,Out
+47/14,11/1/2014,5:00AM,142044848,D4,Foley/Lagoa/Creelman/Bliss,"TUCKER, Shervonne",B/N/F,35,,18 Lattimore Ct,,0,,,,,,,GSW,Unk,Out
+48/14,11/5/2014,9:41PM,142046287,A15,Devane/Donlon/McLaughlin/Kenney,"MORRISSEY, Ryan",W/M,17,,274 Main St,,0,,,,,,,GSW,Unk,Out
+49/14,11/8/2014,4:05PM,142047104,C11,Sullivan/Munroe/Macisaac/Cummings,"DAVEIGA, Audilla",B/N/F,33,,45 Bowdoin St,,0,,,,,,,Trauma,Unk,Inside
+50/14,11/4/2014,11:03PM,142045974,E5,Wyse/Ruiz/Mitchell/Walsh,"PUJOLS, Darison",B/H/M,23,,226 Margaretta Dr.,,0,,,,,,,GSW,Unk,Inside
+51/14,12/12/2014,6:22PM,142056945,C11,Daley/Callahan/O'Sullivan/Herron,"DWYER, Sean",W/N/M,29,,661 Adams St,,0,,,,,,,Knife,Unk,Out
+52/14,12/17/2014,1:38PM,142058330,B2,Stratton/Mills/Moore,"DAVIS, William Jr.",B/M,20,,Dudley St & W. Cottage St,,1,intersection between Dudley Street and West Cottage Street,,,,,,GSW,Unk,Out
+53/14,12/21/2014,4:21AM,142059478,B2,Doherty/Zingg/Chevrette,"GUZMAN, Rafeal",B/H/M,23,,568 Blue Hill Ave,,0,,,,,,,Knife,Unk,Inside
+15-Jan,1/8/2015,10:45PM,152002215,B2,Wyse/Ruiz/Walsh,"DOSOUTO, Alex",B/M,25,,104 Harrishof St,,0,,,,,,,GSW,NO,OUT
+*02/15,7/13/2014,06:06PM,142008830,B2,Wyse/Ruiz/Mitchell/Walsh,"ROE, Pippin",W/F,40,,1524 Columbus Ave (rear),,0,rear of property,,,,,,Trauma,NO,OUT
+15-Mar,1/20/2015,11:04AM,152005273,B2,Lewis/Relerford/McPherson/Moriarty,"DAVIDSON, Michael",W/M,44,,70 Francis St,,0,,,,,,,GSW,NO,Inside
+15-Apr,1/26/2015,8:52PM,152007197,B2,Wyse/Walsh/Lagoa,"FLOYD, Charles",B/N/M,28,,8 Shetland St,,0,,,,,,,Knife,NO,OUT
+15-May,2/11/2015,10:30AM,152011169,E13,Foley/Lagoa/Creelman/Bliss,"LAMOUR, KENNY                ",B/N/M                ,21,,891 Centre S St,,0,,,,,,,GSW,NO,OUT
+*06/15,11/18/2014,2:17AM,142049954,E18,Stratton/Mills/Moore/Teixeira,"McMahon, Stephanie",W/N/F,47,,1037 River St,,0,,,,,,,Blunt   Force,,Inside
+15-Jul,3/14/2015,3:46PM,152020647,B2,Lewis/Relerford/McPherson/Moriarty,"RAMOS, Luis",W/H/M,40,,Dudley St & Brook Ave.,,1,intersection between Dudley Street and Brook Avenue,,,,,,GSW,NO,OUT
+15-Aug,3/15/2015,3:59AM,152020804,E18,Lewis/Relerford/McPherson/Moriarty,"WILLIAMS, Willie Jr. ",B/N/M,21,,23 Lincoln St,,0,,,,,,,GSW,NO,OUT
+15-Sep,3/31/2015,11:30AM,152026045,B3,Foley/Lagoa/Creelman/Bliss,"LONG, Richard",B/M,37,,332 Harvard St,,0,,,,,,,GSW,NO,Inside
+15-Oct,4/8/2015,8:20 PM,152028582,C11,Wyse/Ruiz/Walsh,"JOHNSON, Jeromie",B/M,33,,50 Richfield St,,0,,,,,,,GSW,NO,OUT
+15-Nov,5/7/2015,4:00AM,152037218,B2,Foley/Lagoa/Creelman/Bliss,"KING, Nevin",B/N/M,24,,67 Winthrop St,,0,,,,,,,GSW,NO,OUT
+15-Dec,5/23/2015,12:50AM,152042211,B2,Devane/McLaughlin/Donlon/Kenney,"MOORE Jr. , Larry ",B/N/M,27,,70 Weaver Way,,0,,,,,,,GSW,No,OUT
+13/15,6/10/2015,7:53 PM,152048199,B3,Daley/Callahan/O'Sullivan/Herron,"DOS SANTOS, Jonathan",B/N/M,16,,128 Fuller St ,,0,,,,,,,GSW,NO,OUT
+14/15,7/2/2015,11:08PM,152054787,B2,Donovan/Kenney/Donlon,"RAMIREZ, Raheem",B/N/M,22,,21 Greenville St ,,0,,,,,,,GSW,NO,OUT
+15/15,7/4/2015,10:46PM,152055311,B2,Stratton/Mills/Moore/Teixeira,"ALEXANDER, Ryan",B/M,26,,Holborn St & Glenburne St ,,1,intersection between Holborn Street and Glenburne Street,,,,,,GSW,NO,OUT
+16/15,7/8/2015,7:30AM,152056250,A1,Doherty/Zingg/Chevrette,"LEI, Yuzhen",A/F,72,,Chauncy St & Essex St,,1,intersection between Chauncy Street and Essex Street,,,,,,Trauma,NO,OUT
+17/15,7/11/2015,5:57 PM,152057348,C11,Sullivan/MacIsaac/Munroe,"LOUIS, Jean C. Jr.",B/N/M,20,,87 Bailey St,,0,,,,,,,GSW,NO,OUT
+18/15,7/20/2015,10:35AM,152059883,E5,Stratton/Zingg/Creelman,"CASTILLO, Jason",B/H/M,28,,50 Brookway Rd.,,0,Unit 523,,,,,,GSW,NO,Inside
+19/15,7/28/2015,10:32 PM,152062504,B2,Devane/Herron/Callahan,"SANCHEZ, Grisel",H/F,31,,339 Seaver St,,0,opposite of property,,,,,,GSW,NO,OUT
+20/15,8/12/2015,10:15PM,152066828,E13,Stratton/Mills/Moore/Teixeira,"REID, Andrew",B/N/M,28,,12 Ernst Street,,0,,,,,,,GSW,NO,OUT
+21/15,8/12/2015,10:15PM,152066828,E13,Stratton/Mills/Moore/Teixeira,"OLLER, Angel",W/H/M,20,,12 Ernst Street,,0,,,,,,,GSW,NO,OUT
+22/15,8/12/2015,10:18PM,152066827,B3,Lewis/Ruiz/Walsh,"ADILAS, Darwin",B/M,21,,41 Hosmer St,,0,,,,,,,GSW,NO,OUT
+23/15,8/29/2015,2:42AM,152071596,B2,Sullivan/Munroe/MacIsaac/Cummings,"DAVIS, Tedford",B/N/M,27,,29 Creston St,,0,,,,,,,GSW,NO,OUT
+24/15,9/10/2015,4:38AM,152075106,B2,Lewis/McPherson/Moriarty,"PINNICK, Zachary",B/N/M,32,,56 Holworthy St,,0,,,,,,,GSW,NO,OUT
+25/15,9/16/2015,12:12PM,152077031,B2,Foley/Creelman/Bliss,"BODDEN-MAXIMO, Luis",B/M,21,,Calumet St & Tremont St,,1,intersection between Calumet Street and Tremont Street,,,,,,GSW,NO,OUT
+26/15,9/20/2015,5:12 PM,152078371,A7,Daley/Callahan/O'Sullivan/Herron,"DEPAZ, Irvin",H/M,15,,72 Trenton St,,0,,,,,,,STAB,NO,OUT
+27/15,9/23/2015,8:40 PM,152079378,B2,Wyse/Walsh/McPherson,"BELLEGARDE, Natho C",B/M,21,,97-99 Intervale St,,0,,,,,,,GSW,NO,OUT
+28/15,9/30/2015,4:05AM,152081264,E18,Doherty/Zingg/Chevrette,"RANDALL, Jeffrey",W/M,30,,493 Huntington Ave,,0,,,,,,,GSW,NO,OUT
+29/15,10/22/2015,3:23 PM,152087774,E13,Lewis/Moriarty/McPherson,"RAYMOND, Mason",B/N/M,17,,Jackson Square MBTA,,0,MBTA Station,,,,,,STAB,NO,OUT
+30/15,10/23/2015,11:45PM,152087906,D14,Sullivan/Cummings/MacIsaac/Munroe,"JOSEPH, Desmond",B/M,30,,124 Telford St,,0,,,,,,,GSW,NO,OUT
+31/15,10/24/2015,12:41PM,152088337,E18,Doherty/Zingg/Chevrette,"FRANCIS, Clive",B/M,49,,239 Wood Ave,,0,,,,,,,GSW,Yes,Inside
+32/15,11/3/2015,12:25AM,152091104,C11,Daley/Callahan/O'Sullivan/Herron,"OWENS, Dominic J.",B/M,21,,15 Shepton St,,0,,,,,,,GSW,NO,OUT
+33/15,11/20/2015,5:58PM,152096420,E13,Sullivan/Cummings/MacIsaac/Munroe,"SANTOS, Bryan",W/H/M,22,,348 Centre St,,0,,,,,,,GSW,NO,OUT
+34/15,11/26/2015,2:00AM,152097957,D4,Daley/Callahan/O'Sullivan/Herron,"CHERY, Jephthe",B/M,30,,19 Yawkey Wy,,0,,,,,,,GSW,NO,OUT
+35/15,12/5/2015,20:33PM,152100585,C6,Devane/Ruiz/Zingg,"SCOTT, Maurice",B/M,23,,425 Old Colony Ave,,0,,,,,,,GSW,NO,OUT
+36/15,12/8/2015,12:29AM,152101248,B3,Daley/Callahan/O'Sullivan/Herron,"SINCLAIR, Anthony",B/M,28,,5 Nightingale St,,0,Unit 3,,,,,,STAB,NO,Inside
+37/15,12/9/2015,1:32AM,152101585,D4,Daley/Callahan/O'Sullivan/Herron,"RUIZ, Wellington",B/H/M,25,,Tremont St & Rutland St ,,1,intersection Tremont Street and Rutland Street,,,,,,GSW,NO,OUT
+38/15,12/11/2015,20:19PM,152101840,B3,Sullivan/Cummings/MacIsaac/Munroe,"DURHAM, Eric",B/M,27,,120 Southern Ave,,0,,,,,,,GSW,NO,OUT
+39/15,12/18/2015,16:00PM,152104401,B2,Stratton/Moore/Lagoa,"KING-SETTLES, D'Andre",B/M,17,,58 Annunciation Rd,,0,,,,,,,GSW,NO,OUT
+40/15,12/29/2015,8:47AM,152107190,B3,Doherty/Zingg/Chevrette/Boyle,"MORALES, Joshua",W/H/M,18,,23 Wilmore St,,0,,,,,,,GSW,NO,OUT
+*1/16,9/24/2005,1:01,i050514974-00,B2,Daley/Harris/Callahan,"MAYS-JESURUM, Troi",B/M,26,,6 Degautier Way,,0,,,,,,,GSW,NO,OUT
+16-Feb,1/10/2016,1:36AM,162002573,A7,Wyse/Ruiz/Walsh,"PEREZ-DE LA CRUZ, Christopher",W/H/M,16,,144 Falcon St,,0,,,,,,,GSW/Knife,NO,OUT
+16-Mar,1/13/2016,19:36PM,162003560,B2,Daley/Callahan/O'Sullivan/Herron,"JACQUET, Eden",B/M,30,,55 Fenwood,,0,,,,,,,GSW,NO,Inside
+16-Apr,1/27/2016,1:39AM,162007065,C11,Donovan/Munroe/MacIssac/Cummings,"SEALEY, Alvin",B/N/M,19,,740 Washington St,,0,,,,,,,GSW,NO,OUT
+16-May,11/12/2014,12:00AM,142048794-00,B2,Daley/Callahan/O'Sullivan/Herron,"WESTON, Ronald",B/M,76,,12 Millmont St,,0,3/2nd,,,,,,Trauma,NO,Inside
+16-Jun,2/4/2016,5:47PM,162009550,B2,Devane/McLaughlin/Kenney,"WAITHE, Marquis",B/M,22,,55 Brookledge St,,0,,,,,,,GSW,NO,OUT
+16-Jul,11/12/2013,16:41,130719749-00,D4,Daley/Callahan/O'Sullivan/Herron,"PEREYRA, Varelis",W/F,4,,1833 Washington St,,0,Unit 1B,,,,,,Trauma,NO,Inside
+16-Aug,2/21/2016,16:15PM,162013863,B2,Lewis/Zingg/Chevrette/Boyle,"HOPKINS, Deon",B/M,15,,197 Columbia Rd,,0,,,,,,,Knife,NO,OUT
+16-Sep,3/21/2016,3:07AM,162021883,B2,Lewis/McPherson/Moriarty/Cullinane,"BRYANT, Allex",B/N/M,29,,Humbolt Ave. & Munroe St,,1,intersection between Humbolt Avenue and Munroe Street,,,,,,GSW,NO,OUT
+16-Oct,3/22/2016,10:30PM,162022418,A7,Devane/McLaughlin/Kenney,"EPIFANIA, Luigi",W/N/H/M,32,,10 Wordsworth St,,0,Unit 2,,,,,,GSW,NO,OUT
+16-Nov,3/27/2016,2:11AM,162023617,B3,Greeley/Cummings/MacIsaac,"BURTON, Chaz",B/M,26,,227 River St ,,0,,,,,,,GSW,NO,Inside
+16-Dec,1/31/2016,9:38PM,162008434,B2,Daley/Munroe/MacIsaac/Cummings,"WHYTE, Kenai",B/N/M,3,,23 Alpine St,,0,Unit 2,,,,,,TRAUMA,NO,Inside
+13/16,11/5/2008,12:40pm,i080644488-00,C11,Wyse/Grant/Benton,"UKO, Akanimo",B/M,31,,58 Bowdoin Ave,,0,Unit 2,,,,,,GSW,NO,Inside
+14/16,5/19/2016,9:40pm,162039242,B3,Sullivan/Munroe/MacIsaac/Cummings,"STEWART, David",B/M,22,,87 Southern Ave,,0,,,,,,,GSW,NO,OUT
+15/16,5/29/2016,22:19pm,162042228,B2,Daley/Callahan/O'Sullivan/Herron,"GODFREY, Levar Lee",B/M,31,,131 Devon St,,0,,,,,,,GSW,NO,Inside
+16/16,6/4/2016,23:16,162044119,B3,Daley/Callahan/O'Sullivan/Herron,"HEADLEY, Ronnie",B/M,33,,8 York St,,0,,,,,,,GSW,NO,OUT
+17/16,6/8/2016,13:16,162045234,B2,Doherty/Zingg/Chevrette/Boyle,"BROWN, Rayquan Jaquay",B/M,17,,63 Washington St,,0,,,,,,,GSW,NO,OUT
+18/16,6/14/2016,12:22PM,162046995,B3,Stratton/Mills/Moore/Teixeira,"HALL, Marcus A",B/M,31,,1186 Blue Hill Ave,,0,,,,,,,GSW,NO,OUT
+19/16,6/15/2016,8:34AM,162047273,A7,Stratton/Mills/Moore/Teixeira,"LAINEZ, Blanca",W/H/F,18,,54 Princeton St,,0,,,,,,,Stab,NO,Inside
+20/16,4/17/2016,1:15AM,162029672,C11,Devane/McLaughlin/Kenney,"HINGSTON, Brian",W/M,45,,Adams St & Gallivan Blvd.,,1,intersection between Adams Street and Gallivan Boulevard,,,,,,Trauma,NO,OUT
+21/16,6/18/2016,11:08PM,162048538,B3,Sullivan/Munroe/MacIsaac/Cummings,"FLONORY, Andrew",B/N/M,31,,66 Astoria St,,0,,,,,,,GSW,NO,OUT
+22/16,6/24/2016,3:22PM,162050266,B3,Lewis/Moriarty/Cullinane,"GOOD, Jermaine",B/N/M,43,,17 Doone Ave,,0,,,,,,,GSW,NO,OUT
+23/16,7/7/2016,11:36AM,162053997,C11,Lewis/McPherson/Moriarty/Cullinane,"SMITH, Brandon",B/N/M,27,,68 Hancock St,,0,,,,,,,GSW,NO,OUT
+24/16,8/12/2016,11:38PM,162065072,B-3,Wyse/Sygiel/Ruiz,"Naves-Silva, Carlos",B/N/M,35,,21 Algonquin St,,0,,,,,,,GSW,NO,OUT
+25/16,8/17/2016,6:54AM,162066422,A7,Foley/Bliss/Lagoa/Relerford,"SMITH, Gage Lucas",B/M,23,,217 Paris St,,0,,,,,,,Stab,NO,OUT
+26/16,8/20/2016,0:04,162067346,B2,Wyse/Ruiz/Sygiel,"GONCALVES, Ailton",B/M,35,,6 Dudley Terrace,,0,,,,,,,GSW,NO,OUT
+27/16,8/27/2016,1:39AM,162069471,C11,Devane/Kenney/ Chevrette,"ODIGE, Stavensky",B/M,24,,58 Westville St,,0,,,,,,,GSW,NO,OUT
+28/16,8/27/2016,3:33AM,162069476,E13,Stratton/Moore/Teixeira,"KELLY, Jeffrey",B/N/M,28,,451 Centre St ,,0,,,,,,,GSW,NO,OUT
+29/16,9/7/2016,7:44PM,162073020,B3,Devane/Kenney/Walsh,"Singleton, Roland",B/N/M,21,,10 Ripley Rd,,0,,,,,,,GSW,NO,OUT
+30/16,9/17/2016,2:18AM,162075905,B3,Sullivan/MacIsaac/Cummings/Williams,"WOODS, Phillip",B/M/,23,,Wales St & Nightingale St,,1,intersection Wales Street and Nightingale,,,,,,GSW,NO,OUT
